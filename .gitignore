@@ -1,0 +1,30 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Contacts (Java)/*
+!/Contacts (Java)/task/
+/Contacts (Java)/task/*
+!/Contacts (Java)/task/src
+
+# Project exclude paths
+/Topics/Command/Forex Broker/out/
+/Topics/Command/Forex Broker/out/production/classes/
+/Topics/Enumset/Set of vowels/out/
+/Topics/Enumset/Set of vowels/out/production/classes/
+/Topics/Enumset/Vaccination/out/
+/Topics/Enumset/Vaccination/out/production/classes/
+/Topics/Match results/Extracting words from a text/out/
+/Topics/Match results/Extracting words from a text/out/production/classes/
+/Topics/Match results/Find all passwords/out/
+/Topics/Match results/Find all passwords/out/production/classes/
+/Topics/Regexes in programs/Safe password/out/
+/Topics/Regexes in programs/Safe password/out/production/classes/
